@@ -8,6 +8,9 @@ This is meant to be as a PoC/template reference that can be tailored for specifi
 0. - Create Remote Thread - DLL Injection
 1. - Create Remote Thread - Shellcode Injection 
 
+### TO-DO
+2. - Reflective DLL Injection
+
 
 ### Example output 
 ```
@@ -16,6 +19,8 @@ Example: DS_Injector.exe 4242 2 InjectDLL.dll
 
 [0] - Create Remote Thread - DLL Injection
 [1] - Create Remote Thread - Shellcode Injection *
+
+
 
 [*] Shellcode can be replaced in the 'resource' section of the project.>
 [*] WARNING - it might kill the parent process
