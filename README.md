@@ -5,11 +5,11 @@ This is meant to be as a PoC/template reference that can be tailored for specifi
 
 ### Supported techniques
 
-0. - Create Remote Thread - DLL Injection
-1. - Create Remote Thread - Shellcode Injection 
+.0 - Create Remote Thread - DLL Injection
+.1 - Create Remote Thread - Shellcode Injection 
 
 ### TO-DO
-2. - Reflective DLL Injection
+.2 - Reflective DLL Injection
 
 
 ### Example output 
