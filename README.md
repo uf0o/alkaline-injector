@@ -6,7 +6,7 @@ This is meant to be as a PoC/template reference that can be tailored for specifi
 ### Supported techniques
 
 0. - Create Remote Thread - DLL Injection
-1. - Create Remote Thread - Shellcode Injection *
+1. - Create Remote Thread - Shellcode Injection 
 
 
 ### Example output 
