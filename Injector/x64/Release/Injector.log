@@ -1,0 +1,7 @@
+﻿  Injector.cpp
+C:\Users\matteo\source\repos\inject\Injector\Injector.cpp(76,37): warning C4267: 'initializing': conversion from 'size_t' to 'long', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 237 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Injector.vcxproj -> C:\Users\matteo\source\repos\inject\x64\Release\Injector.exe
